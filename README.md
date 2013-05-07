@@ -24,12 +24,14 @@ The following files need to be added to your website to be able to use NNav.
 
  <div class="nnav" id="nnav">
       
+      <!-- NAVIGATION -->
       <div class="nnav-nav">
         <div class="nnav-nav-inner">
         	Navigation
         </div>
       </div>
       
+      <!-- CONTENT -->
       <div class="nnav-content">
          <div class="nnav-content-inner">
            
