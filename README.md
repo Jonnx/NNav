@@ -18,3 +18,5 @@ The following files need to be added to your website to be able to use NNav.
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
     <script type="text/javascript" src="./js/nnav.jquery.js"></script>
     ````
+
+#### HTML Structure
