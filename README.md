@@ -6,10 +6,16 @@ that slides in from the left, much like the native Facebook app.
 ### Getting Started
 
 In order to be able to use Nnav within your website you need to:
- 1. Load jQuery and the `./css` & `./js` files
- 2. Integrate the NNav Structure into Your Website
+ 1. Load Dependencies
+ 2. Integrate NNav HTML Structure
 
+#### Load Dependecies
+The following files need to be added to your website to be able to use NNav.
     ````HTML
+    <!-- CSS -->
     <link rel="stylesheet" href="./css/nnav.css" type="text/css" />
+
+	<!-- JAVASCRIPT -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
     <script type="text/javascript" src="./js/nnav.jquery.js"></script>
     ````
