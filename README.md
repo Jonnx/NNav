@@ -20,3 +20,31 @@ The following files need to be added to your website to be able to use NNav.
 ````
 
 #### HTML Structure
+````HTML
+
+ <div class="nnav" id="nnav">
+      
+      <div class="nnav-nav">
+        <div class="nnav-nav-inner">
+        	Navigation
+        </div>
+      </div>
+      
+      <div class="nnav-content">
+         <div class="nnav-content-inner">
+           
+          <!-- Link to Toggle Navigation -->
+          <a href="#nnav" data-toggle="nnav" class="nnav-btn">
+          	+
+          </a>
+           
+          <!-- Your Content -->
+          ...
+          <!-- End of Your Content -->
+           
+        </div>
+      </div>
+      
+    </div>
+
+````
