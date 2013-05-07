@@ -20,6 +20,8 @@ The following files need to be added to your website to be able to use NNav.
 ````
 
 #### HTML Structure
+The NNav Code structure is inspired by Bootstrap and so it uses the familiar
+`wrapper` `wrapper-inner` notation and the `data-toggle=[nnav]` to enable interaction.
 ````HTML
 
  <div class="nnav" id="nnav">
